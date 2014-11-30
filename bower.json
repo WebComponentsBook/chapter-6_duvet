@@ -25,7 +25,6 @@
   ],
   "dependencies": {
     "jquery": "~2.1.1",
-    "chapter-2_voltron": "*",
     "jenga": "*"
   }
 }
